@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there, I'm Sagnik! 👋
 
-<!--
-**SagnikAB/SagnikAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at **Adamas University**, passionate about building software and solving algorithmic problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const sagnik = {
+    university: "Adamas University",
+    graduation: 2028,
+    fuel: "☕ Coffee",
+    hobbies: ["📸 Photography", "💻 Coding", "🎮 FC Mobile"],
+    current_focus: ["Data Structures & Algorithms", "Full Stack Development"]
+};
