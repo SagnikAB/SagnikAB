@@ -2,7 +2,7 @@
 
 I am a Computer Science student at **Adamas University**, passionate about building software and solving algorithmic problems.
 
-```javascript
+javascript
 const sagnik = {
     university: "Adamas University",
     graduation: 2028,
