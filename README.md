@@ -2,7 +2,11 @@
 
 I am a Computer Science student at **Adamas University**, passionate about building software and solving algorithmic problems.
 
-javascript
+Hi there, I'm Sagnik! 👋
+
+I am a Computer Science student at **Adamas University**, passionate about building software and solving algorithmic problems.
+
+```javascript
 const sagnik = {
     university: "Adamas University",
     graduation: 2028,
