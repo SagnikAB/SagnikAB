@@ -60,3 +60,6 @@
 ---
 
 ⭐ **Fun Fact:** I enjoy turning ideas into code and bugs into lessons.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9aa4165-0006-40fb-b424-b6fde020c1a4"width="50">
+</p>
