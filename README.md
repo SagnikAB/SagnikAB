@@ -46,13 +46,13 @@
 ### 🤝 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/sagnik-dam-3b33b322/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)" width="50"/>
   </a>
   <a href="https://x.com/295sagnik" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+    <img src="[https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white](https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif)" width="50"/>
+  </a> 
   <a href="https://www.instagram.com/sg4_nik" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif)" width="50"/>
   </a>
 </p>
 
