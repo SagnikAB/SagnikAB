@@ -16,7 +16,8 @@
 
 ### 🧠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,git,github,vscode" />
+  ![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/user-attachments/assets/d333efa2-eabc-4604-bc0f-12f0f28354bc)
+
 </p>
 
 ---
