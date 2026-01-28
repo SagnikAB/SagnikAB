@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/91c10739-9d89-48a6-a7f4-ed5dfadfabc2" alt="212748830-4c709398-a386-4761-84d7-9e10b98fbe6e">
+  <img src="![212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4](https://github.com/user-attachments/assets/0e6ba630-92d8-491e-975e-06953b3cdd5a)">
 </p><h1 align="center">Hi 👋, I'm Sagnik</h1>
 <h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
 
