@@ -1,3 +1,4 @@
+![212748830-4c709398-a386-4761-84d7-9e10b98fbe6e](https://github.com/user-attachments/assets/91c10739-9d89-48a6-a7f4-ed5dfadfabc2)
 <h1 align="center">Hi 👋, I'm Sagnik</h1>
 <h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
 
