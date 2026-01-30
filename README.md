@@ -45,13 +45,13 @@
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/sagnik-dam-3b33b322/" target="_blank">
+  <a href="www.linkedin.com/in/sagnik-dam-b33bb3322" target="_blank">
     <img src="https://github.com/user-attachments/assets/e44c9fba-3f0f-4652-ab0d-c780d7f5ee9f" width="50"/>
   </a>
-  <a href="https://x.com/295sagnik" target="_blank">
+  <a href="[[https://x.com/295sagnik](https://x.com/29Sagnik)" target="_blank">
     <img src="https://github.com/user-attachments/assets/10c4fa10-a337-4b92-bbd4-e6bfa67ee480" width="50"/>
   </a>
-  <a href="https://www.instagram.com/sg4_nik" target="_blank">
+  <a href="[https://www.instagram.com/sg4_nik](https://www.instagram.com/s4g.n1k_/)" target="_blank">
     <img src="https://github.com/user-attachments/assets/96e6c821-c0a1-4c8a-b691-0d0a1fc1b37d" width="50"/>
   </a>
 </p>
