@@ -1,67 +1,104 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e6ba630-92d8-491e-975e-06953b3cdd5a">
-</p><h1 align="center">Hi 👋, I'm Sagnik</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
+  <img src="https://github.com/user-attachments/assets/0e6ba630-92d8-491e-975e-06953b3cdd5a" width="150" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Sagnik Dam</h1>
+<h3 align="center">Computer Science Student | Full-Stack Developer</h3>
+
+<p align="center">
+  <a href="https://portfolio-theta-navy-78.vercel.app/">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/sagnik-dam-b33bb3322">LinkedIn</a> ·
+  <a href="https://github.com/SagnikAB">GitHub</a>
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
+
 - 🎓 Computer Science student at **Adamas University**
-- 💡 Passionate about building software and solving algorithmic problems
+- 💡 Interested in **Full-Stack Development** and **Software Engineering**
+- 🎯 Currently focusing on **Data Structures & Algorithms**
 - ☕ Fuelled by coffee
-- 🎯 Currently focusing on **Data Structures & Algorithms** and **Full Stack Development**
 - 🎮 FC Mobile enthusiast | 📸 Photography lover
 
 ---
 
-### 🧠 Tech Stack
-<div align="left" style="display: flex; gap: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
-</div>
+## 🧠 Tech Stack
 
+**Languages**
+Java · Python · C · JavaScript
+
+
+**Web & Backend**
+HTML · CSS · Node.js · Vercel · Sharp
+
+
+**Tools**
+Git · GitHub · VS Code
 
 
 ---
 
-### 🚀 Currently Working On
-- 🔐 **Watermark Studio** – A TypeScript-based tool for digital watermarking  
-- 📚 Preparing for **GATE & Technical Exams** (CSE core subjects)
+## 🚀 Projects
+
+### 🖼 Watermark Web
+A serverless image watermarking web app with dark mode, live preview, and customizable watermark options.
+
+- Live: https://watermark-web-beta.vercel.app/
+- GitHub: https://github.com/SagnikAB/watermark-web
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagnikAB&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagnikAB&layout=compact&theme=radical" height="170"/>
+### 📘 C Tutorials Platform
+An educational website to learn C programming through structured tutorials.
+
+- Live: https://project-c-tutorials.vercel.app/
+- GitHub: https://github.com/SagnikAB/Project-C-tutorials
+
+---
+
+### 🏫 CollegeApp
+A college management application for organizing academic and student-related data.
+
+- GitHub: https://github.com/SagnikAB/CollegeApp
+
+---
+
+## 🌐 Portfolio
+
+👉 https://portfolio-theta-navy-78.vercel.app/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SagnikAB&show_icons=true&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagnikAB&layout=compact&theme=react&hide_border=true" height="160"/>
 </p>
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="www.linkedin.com/in/sagnik-dam-b33bb3322" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e44c9fba-3f0f-4652-ab0d-c780d7f5ee9f" width="50"/>
-  </a>
-  <a href="https://x.com/29Sagnik" target="_blank">
-    <img src="https://github.com/user-attachments/assets/10c4fa10-a337-4b92-bbd4-e6bfa67ee480" width="50"/>
-  </a>
-  <a href="https://www.instagram.com/s4g.n1k_/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/96e6c821-c0a1-4c8a-b691-0d0a1fc1b37d" width="50"/>
-  </a>
-</p>
+## 📈 Contribution Graph
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SagnikAB&theme=react-dark)
 
 ---
 
-⭐ **Fun Fact:** I enjoy turning ideas into code and bugs into lessons.
+## 🤝 Connect With Me
+
+- 📧 Email: sagnikdam29@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sagnik-dam-b33bb3322  
+- 🐦 Twitter/X: https://x.com/29Sagnik  
+
+---
+
+<p align="center">
+  ⭐ If you like my work, feel free to follow or star my repositories
+</p>
+
 <p align="center">
   <a href="https://buymeacoffee.com/sagnik_">
-  <img src="https://github.com/user-attachments/assets/c9aa4165-0006-40fb-b424-b6fde020c1a4"width="50">
+    <img src="https://github.com/user-attachments/assets/c9aa4165-0006-40fb-b424-b6fde020c1a4" width="45" />
   </a>
 </p>
