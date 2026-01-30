@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e6ba630-92d8-491e-975e-06953b3cdd5a" width="150" />
+  <img src="https://github.com/user-attachments/assets/0e6ba630-92d8-491e-975e-06953b3cdd5a" width="140" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sagnik Dam</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer</h3>
+<h2 align="center">Hi 👋, I'm Sagnik Dam</h2>
+
+<p align="center">
+  <strong>Computer Science Student | Full-Stack Developer</strong>
+</p>
 
 <p align="center">
   <a href="https://portfolio-theta-navy-78.vercel.app/">🌐 Portfolio</a> ·
@@ -30,17 +33,19 @@
 ## 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45" />
-  <img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width="45" />
-  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="45" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="45" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="45" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="45" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="40" />
 </p>
 
-**Languages & Tools:**  
-`Java` · `Python` · `C` · `JavaScript` · `HTML` · `CSS` · `Node.js` · `Vercel` · `Sharp` · `Git`
+**Languages & Tools**
+
+Java · Python · C · JavaScript · HTML · CSS · Node.js · Vercel · Sharp · Git
+
 
 ---
 
@@ -53,15 +58,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagnikAB&show_icons=true&theme=react&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagnikAB&layout=compact&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SagnikAB&show_icons=true&theme=react&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagnikAB&layout=compact&theme=react&hide_border=true" height="160" />
 </p>
 
 ---
 
 ## 📈 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SagnikAB&theme=react-dark)
+![Sagnik Dam's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SagnikAB&theme=react-dark)
 
 ---
 
