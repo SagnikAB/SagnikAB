@@ -50,10 +50,15 @@ Java · Python · C · JavaScript · HTML · CSS · Node.js · Vercel · Sharp �
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagnikAB&show_icons=true&theme=react&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagnikAB&layout=compact&theme=react&hide_border=true" height="160" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=SagnikAB&show_icons=true&theme=react&hide_border=true" height="160" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagnikAB&layout=compact&theme=react&hide_border=true" height="160" /></td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
