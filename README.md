@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e6ba630-92d8-491e-975e-06953b3cdd5a" width="140" />
+  <img src="https://github.com/user-attachments/assets/0e6ba630-92d8-491e-975e-06953b3cdd5a" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Sagnik Dam</h2>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-theta-navy-78.vercel.app/">🌐 Portfolio</a> ·
+  <a href="[https://portfolio-theta-navy-78.vercel.app/](https://portfolio-frv3.vercel.app/)">🌐 Portfolio</a> ·
   <a href="https://www.linkedin.com/in/sagnik-dam-b33bb3322">LinkedIn</a> ·
   <a href="https://github.com/SagnikAB">GitHub</a>
 </p>
@@ -51,7 +51,7 @@ Java · Python · C · JavaScript · HTML · CSS · Node.js · Vercel · Sharp �
 
 ## 🌐 Portfolio
 
-👉 **https://portfolio-theta-navy-78.vercel.app/**
+👉 **[https://portfolio-theta-navy-78.vercel.app/](https://portfolio-frv3.vercel.app/)**
 
 ---
 
