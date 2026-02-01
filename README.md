@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm Sagnik Dam</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=22F7E2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Bug+Hunter;Open+Source+Learner;Always+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Open+Source+Learner;Full+Stack+Developer;Bug+Hunter;Always+Building+🚀" />
 </p>
 
 <p align="center">
