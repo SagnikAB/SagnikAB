@@ -74,14 +74,13 @@ Java · Python · C · JavaScript · HTML · CSS · Node.js · Vercel · Sharp �
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sagnik-dam-b33bb3322">
-    <img src="https://user-images.githubusercontent.com/74038190/212257460-8e9cfc57-b7a8-4a7f-bb32-0c3b42b96d1c.gif" width="40" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40" />
   </a>
   <a href="https://x.com/29Sagnik">
-    <img src="https://user-images.githubusercontent.com/74038190/238200672-4a8e88b3-3d5b-4cb7-a84b-fddf5d6a1d19.gif" width="40" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="40" />
   </a>
-  <a href="mailto:sagnikdam29@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/212257466-5f7f08b5-2e91-47ef-9c28-0d5a8c1d4f16.gif" width="40" />
-  </a>
+  <a href="https://www.instagram.com/s4g.n1k_/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40" />
 </p>
 
 ---
