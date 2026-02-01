@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://portfolio-theta-navy-78.vercel.app/](https://portfolio-frv3.vercel.app/)">🌐 Portfolio</a> ·
+  <a href="https://portfolio-frv3.vercel.app/">🌐 Portfolio</a> ·
   <a href="https://www.linkedin.com/in/sagnik-dam-b33bb3322">LinkedIn</a> ·
   <a href="https://github.com/SagnikAB">GitHub</a>
 </p>
@@ -45,13 +45,6 @@
 **Languages & Tools**
 
 Java · Python · C · JavaScript · HTML · CSS · Node.js · Vercel · Sharp · Git
-
-
----
-
-## 🌐 Portfolio
-
-👉 **[https://portfolio-theta-navy-78.vercel.app/](https://portfolio-frv3.vercel.app/)**
 
 ---
 
