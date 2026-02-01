@@ -45,10 +45,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="40" />
 </p>
 
-**Languages & Tools**
-
-Java · Python · C · JavaScript · HTML · CSS · Node.js · Vercel · Sharp · Git
-
 ---
 
 ## 📊 GitHub Stats
