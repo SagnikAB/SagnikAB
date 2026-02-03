@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Hello](https://github.com/user-attachments/assets/eebcc554-83cc-483c-b36e-27c913bdad02)" />
+  <img src="https://github.com/user-attachments/assets/eebcc554-83cc-483c-b36e-27c913bdad02" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Sagnik Dam</h2>
