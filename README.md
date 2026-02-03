@@ -1,7 +1,6 @@
-<p align="center" height="50px"width="100px">
-  <img src="https://github.com/user-attachments/assets/eebcc554-83cc-483c-b36e-27c913bdad02" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eebcc554-83cc-483c-b36e-27c913bdad02" width="100" height="50" />
 </p>
-
 <h2 align="center">Hi 👋, I'm Sagnik Dam</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Open+Source+Learner;Full+Stack+Developer;Bug+Hunter;Always+Building+🚀" />
