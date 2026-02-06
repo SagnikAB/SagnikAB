@@ -48,18 +48,17 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
-
   <img 
-    src="https://github-readme-stats-pi-gules-51.vercel.app/api?username=SagnikAB&show_icons=true&theme=gruvbox&hide_border=true&cache_seconds=86400" 
-    height="170" width="500"
+    src="https://github-readme-stats-pi-gules-51.vercel.app/api?username=SagnikAB&show_icons=true&theme=gruvbox&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=F5F5F5" 
+    height="180"
   />
-
   <img 
-    src="https://github-readme-stats-pi-gules-51.vercel.app/api/top-langs/?username=SagnikAB&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=86400" 
-    height="170" width="700"
+    src="https://github-readme-stats-pi-gules-51.vercel.app/api/top-langs/?username=SagnikAB&layout=compact&theme=gruvbox&hide_border=true&bg_color=000000&title_color=FFD700&text_color=F5F5F5" 
+    height="180"
   />
-
 </div>
 
 <br/>
@@ -70,8 +69,8 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SagnikAB&theme=github-compact&bg_color=000000&color=FFD700&line=FFD700&point=FFFF00&area=true&hide_border=true" 
-    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SagnikAB&bg_color=000000&color=FFD700&line=FFD700&point=FFFF00&area=true&hide_border=true" 
+    width="85%"
   />
 </p>
 
