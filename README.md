@@ -48,8 +48,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img 
     src="https://github-readme-stats-pi-gules-51.vercel.app/api?username=SagnikAB&show_icons=true&theme=gruvbox&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=F5F5F5" 
