@@ -51,12 +51,12 @@
 <div align="center">
 
   <img 
-    src="https://github-readme-stats-pi-gules-51.vercel.app/api?username=SagnikAB&show_icons=true&theme=yellowdark&hide_border=true&cache_seconds=86400" 
+    src="https://github-readme-stats-pi-gules-51.vercel.app/api?username=SagnikAB&show_icons=true&theme=gruvbox&hide_border=true&cache_seconds=86400" 
     height="165"
   />
 
   <img 
-    src="https://github-readme-stats-pi-gules-51.vercel.app/api/top-langs/?username=SagnikAB&layout=compact&theme=yellowdark&hide_border=true&cache_seconds=86400" 
+    src="https://github-readme-stats-pi-gules-51.vercel.app/api/top-langs/?username=SagnikAB&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=86400" 
     height="165"
   />
 
