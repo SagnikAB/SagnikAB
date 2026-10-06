@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-frv3.vercel.app/">🌐 Portfolio</a> ·
+  <a href="https://portfolio-tester-theta.vercel.app/">🌐 Portfolio</a> ·
   <a href="https://www.linkedin.com/in/sagnik-dam-b33bb3322">LinkedIn</a> ·
   <a href="https://github.com/SagnikAB">GitHub</a>
 </p>
@@ -28,7 +28,7 @@
 - 💡 Interested in **Full-Stack Development** and **Software Engineering**
 - 🎯 Currently focusing on **Data Structures & Algorithms**
 - ☕ Fuelled by coffee
-- 🎮 FC Mobile enthusiast | 📸 Photography lover
+- 📸 Photography lover
 
 ---
 
