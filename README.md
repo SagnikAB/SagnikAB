@@ -17,10 +17,11 @@
 
 ## 📈 Contribution Activity
 
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SagnikAB&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true"
+    src="https://contribkit.app/user/SagnikAB.svg"
     width="95%"
-    alt="GitHub contribution activity graph"
+    alt="GitHub contribution activity"
   />
 </p>
